@@ -306,7 +306,6 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  margin-bottom: 80px;
 }
 .table_dark {
   display: flex;
@@ -332,7 +331,6 @@
 .footer {
   display: flex;
 
-  display: flex;
   min-height: 350px;
   background-color: #1f1f1f;
 }
