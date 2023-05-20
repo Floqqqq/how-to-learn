@@ -1,0 +1,9 @@
+.logo_place_footer {
+  width: 228px;
+  height: 32px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  background-size: cover;
+  background-image: url(/images/logo_place_footer.svg);
+}
